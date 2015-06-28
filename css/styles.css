@@ -1,0 +1,131 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+
+tel > a {
+	text-decoration: none;
+	color: white;
+}
+
+tel > a:link {
+	text-decoration: none;
+	color: white;
+}
+
+tel > a:hover {
+	text-decoration: none;
+	color: white;
+}
+
+tel > a:active {
+	text-decoration: none;
+	color: white;
+}
+
+tel > a:visited {
+	text-decoration: none;
+	color: white;
+}
+
+#header {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background: #AA7539;
+	color: #FFFFFF;
+}
+
+.navbar {
+	margin-bottom: 0;
+	border: 0;
+}
+
+#motto {
+	list-style: none;
+	margin: 10px;
+}
+
+/*#subheader {
+	background: #EAC59C;
+		color: #FFFFFF;
+}*/
+
+/*#subheader a {
+	color: #6A3800;
+}*/
+
+.navbar-default {
+	background: #EAC59C;
+		color: #FFFFFF;
+}
+
+#slogan {
+	color: #2B1600;
+	font-weight: bold;
+	font-size: 1.1em;
+	padding-top: 15px;
+}
+
+#centralPart{
+	background: #EAC59C;
+}
+
+#features {
+	color: #2B1600;
+}
+
+.feature-icon {
+	float: left;
+}
+
+
+#footer {
+	background: #6A3800;
+		color: #FFFFFF;
+
+}
+
+#subfooter {
+	background: #2B1600;
+	color: #FFFFFF;
+}
+
+.carousel img {
+	
+	margin: 0 auto;
+}
+
+#needHelp {
+	text-align: right;
+}
+
+.callUs {
+	font-size: 2em;
+	text-align: right;
+}
+
+tel {
+	font-weight: bold;
+}
+
+#designCopy {
+	font-size: 0.75em;
+	text-align: right;
+}
+
+#footer {
+		padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#footer a {
+	color: #FFFFFF;
+}
+
+#subfooter {
+	padding-top: 5px;
+}
+
+#map-canvas {
+        height: 600px;
+      }
