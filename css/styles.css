@@ -72,6 +72,8 @@ tel > a:visited {
 
 #features {
 	color: #2B1600;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 .feature-icon {
@@ -81,11 +83,15 @@ tel > a:visited {
 
 #footer {
 	background: #6A3800;
-		color: #FFFFFF;
+	color: #FFFFFF;
+	padding-top: 40px;
+	padding-bottom: 40px;
 
 }
 
 #subfooter {
+	padding-top: 20px;
+	padding-bottom: 10px;
 	background: #2B1600;
 	color: #FFFFFF;
 }
@@ -113,17 +119,8 @@ tel {
 	text-align: right;
 }
 
-#footer {
-		padding-top: 20px;
-	padding-bottom: 20px;
-}
-
 #footer a {
 	color: #FFFFFF;
-}
-
-#subfooter {
-	padding-top: 5px;
 }
 
 #map-canvas {
