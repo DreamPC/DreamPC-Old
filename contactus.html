@@ -96,8 +96,21 @@
 		
 		<div class="mainPart jumbotron">
 			<div class="container">
-				<h2>Need help?</h2>
-				<p>If you have problems with your computer, printer, tablet or cell phone, we are ready to help. Please call us now <tel>022&nbsp;080&nbsp;5577</tel> to make an appointment, and some of our friendly team members will be assigned to sort out the issue in a fast an confident manner.</p>
+				<div class="row">
+					<div class="col-sm-6">
+						<h2>Need help?</h2>
+						<p>If you have problems with your computer, printer, tablet or cell phone, we are ready to help. Please call us now <tel>022&nbsp;080&nbsp;5577</tel> to make an appointment, and some of our friendly team members will be assigned to sort out the issue in a fast and confident manner.</p>
+					</div>
+					<div class="col-sm-6">
+						<form  action="//formspree.io/formspree2345@dreampc.co.nz" method="POST">
+							<input type="text" name="name" placeholder="Your name" class="form-control"> <br/>
+							<input type="email" name="_replyto" placeholder="Your email" class="form-control"> <br/>
+							<input name="_gotcha" style="display:none" type="text">
+							<textarea name="message" rows=6 placeholder="Brief description of your problem" class="form-control"></textarea> <br/>
+							<input type="submit" value="Send"  class="btn btn-default">
+						</form>
+					</div>
+				</div>
 				
 			</div> <!--class="container"-->
 		</div> <!--class="mainPart"-->

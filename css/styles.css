@@ -129,3 +129,14 @@ tel {
 #map-canvas {
         height: 600px;
       }
+
+input {
+	padding: 6px;
+	width: 100%;
+}
+
+textarea {
+	margin-bottom: 6px;
+	padding: 6px;
+	width: 100%;
+}
