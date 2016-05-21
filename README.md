@@ -1,6 +1,6 @@
 # DreamPC
-The company's website.
 
-This is the first web site that I have created for a working company.
-I am still learning the basics of HTML/CSS/JavaScript, as well as the libraries, frameworks and tools.
-Please stay tuned :-)
+This is the very first version of our website, hand-crafted in 2015 in pure vanilla HTML5/CSS3/JavaScript and a dash of Bootstrap and jQuery.
+
+It was just a fast and dirty work in order to fill the vacuum.
+We keep it here as a memory and a landmark of our development progerss :-)
